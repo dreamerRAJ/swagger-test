@@ -3,7 +3,7 @@
     "urls": [
         {
             "url": "https://raw.githubusercontent.com/dreamerRAJ/swagger-test/main/test.yaml",
-            "name": "<H1>RAJNISH</H1>"
+            "name": "DOM XSS BY RAJNISH"
         }
     ]
 }
