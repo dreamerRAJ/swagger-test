@@ -1,4 +1,3 @@
-
 {
     "swagger": "2.0",
         "info": {
@@ -9,7 +8,7 @@
     "schemes": [
         "http"
     ],
-        "host": "https://adobedocs.github.io/indesign-api-docs/",
+        "host": "http://spear.aot.tu-berlin.de:8080/swagger-ui.html",
             "basePath": "/",
                 "produces": [
                     "application/json"
